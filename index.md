@@ -3,7 +3,8 @@ layout: page
 title: "About"
 ---
 
-<img align = "right" width = "200" src="/assets/css/Hantao_photo.jpeg" class="img-responsive" alt="" />
+<img align = "right" width = "150" src="/assets/css/Hantao_photo.jpeg" class="img-responsive" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 I am a rising senior at [UC San Diego](https://ucsd.edu/). I double major mathematics (with honors) and computer science. My (math) honors thesis advisor is [Kiran Kedlaya](https://kskedlaya.org/). 
 
