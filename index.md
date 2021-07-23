@@ -3,8 +3,8 @@ layout: page
 title: "About"
 ---
 
-<img align = "center" width = "220" src="/assets/css/Hantao_photo.jpeg" class="img-responsive" alt="" />
-  
+<img align = "center" width = "220" src="/assets/css/Hantao_photo.jpeg" class="img-responsive" alt="" /> &nbsp; (Photo taken in Annenberg, Caltech)
+
 I am a rising senior at [UC San Diego](https://ucsd.edu/). I double major mathematics (with honors) and computer science. My (math) honors thesis advisor is [Kiran Kedlaya](https://kskedlaya.org/). 
 
 I worked as a TA and Research Assistant for the [math department](https://math.ucsd.edu/). I participated in the [RTG program](https://math.ucsd.edu/~rtgagant/rtgreading.html) (Graduate directed reading for undergraduates) in Spring 2021, where I was reading "Representation of Quivers" under Tanny Libman.
