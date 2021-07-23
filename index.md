@@ -12,4 +12,3 @@ I worked as a TA and Research Assistant for the [math department](https://math.u
 I am a participant of Caltech's [SURF](http://sfp.caltech.edu/programs/surf) program for 2020 and 2021, where I was advised by [Chris Umans](http://users.cms.caltech.edu/~umans/).
 
 I created this website by following Kathryn Schuler's [tutorial](https://www.youtube.com/watch?v=qZsgPgGdOzQ) on Youtube.
-
