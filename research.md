@@ -6,6 +6,7 @@ title: "Research"
 My current interests include: Theoretical Computer Science, Combinatorics, Algebra. 
 
 ### Ongoing Projects
+- Directed reading, "Introduction to Homological Algebra" by Rotman (under Daniel Rogalski, UC San Diego)
 - Discrete Fourier Transform on Schurian Schemes (under Chris Umans, Caltech)
 - Group-theoretic Algorithms for Matrix Multiplication (under Chris Umans, Caltech)
 - Active learning through queries (under Max Hopkins, UC San Diego)
